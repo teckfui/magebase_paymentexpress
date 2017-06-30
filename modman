@@ -1,1 +1,6 @@
-@import app/code/community/MageBase/DpsPaymentExpress/
+app/code/community/MageBase/DpsPaymentExpress                   app/code/community/MageBase/DpsPaymentExpress
+app/etc/modules/*                                               app/etc/modules/
+app/design/adminhtml/default/default/template/magebase/dps      app/design/adminhtml/default/default/template/magebase/dps
+app/design/frontend/base/default/layout/*.xml                   app/design/frontend/base/default/layout/
+app/design/frontend/base/default/template/magebase/dps          app/design/frontend/base/default/template/magebase/dps
+skin/frontend/base/default/images/magebase/dps/                 skin/frontend/base/default/images/magebase/dps
